@@ -1,6 +1,6 @@
 # Green Borough Taxi Analysis
 
-Hi everyone, in this project, i will try to discover hidden pattern and insights from the NYC borough taxi trip data by performing data analysis, these findings can be used by taxi cab companies or even individual drivers to improve their profit or minimize operating cost.
+Hi everyone, in this project i will try to discover hidden pattern and insights from the NYC borough taxi trip data by performing data analysis, these findings can be used by taxi cab companies or even individual drivers to improve their profit or minimize operating cost.
 
 # Source Data 
 <p align="center">
@@ -17,14 +17,16 @@ Boro taxis or green taxi are taxicabs in New York City that are allowed to pick 
 
 # Problems to be solved
 
+After diving into the bussiness process, here are some problems that i can help to solve by using the data:
 <ol>
-  <li>When is the best time to allocate the taxi fleet ?</li>
+  <li>When is the best time to allocate the taxi fleet or drive a taxi?</li>
   <li>Is the borough taxi distribution to other borough is even? </li>
   <li>How to improve the borough taxi business in other borough ?</li>
 </ol>
 
 # Data Cleaning
 
+Data cleaning plays a pivotal role in data analysis as the quality and validity of insights are very dependant on data cleaning
 <ol>
   <li> Handling Missing Values ?</li>
   <li> Outlier Identification </li>
