@@ -6,11 +6,11 @@ The main data that being used in this analysis was gained from the New York City
 
 # Business Understanding
 
-![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/cd853461-5bd1-4a41-a27e-966d1101dd1c)
+<img src="images/Boro-Taxi-4.png" alt="Image Description" width="300"/>
 
 Boro taxis or green taxi are taxicabs in New York City that are allowed to pick up passengers (street hails or calls) in outer boroughs (excluding John F. Kennedy International Airport and LaGuardia Airport unless arranged in advance) and in Manhattan above East 96th and West 110th Streets.
 
-![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/3bd42e99-839a-4ef7-a8a7-888702e9b638)
+<img src="images/NYC.png" alt="Image Description" width="300"/>
 
 # Problems to be solved
 
