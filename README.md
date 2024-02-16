@@ -1,10 +1,12 @@
 # Green Borough Taxi Analysis
 
+Hi everyone, in this project, i will try to discover hidden pattern and insights from the NYC borough taxi trip data by performing data analysis, these findings can be used by taxi cab companies or even individual drivers to improve their profit or minimize operating cost.
+
 # Source Data 
 <p align="center">
 <img src="images/NYC.png" alt="Image Description" width="300"/>
 </p>
-# Problems to be solved
+
 The main data that being used in this analysis was gained from the New York City Taxi and Limousine Commission (NYC TLC), each rows represent a green taxi trip. the secondary data that being used was gained from the nyc open data which contains information of trip location and shape data.
 
 # Business Understanding
