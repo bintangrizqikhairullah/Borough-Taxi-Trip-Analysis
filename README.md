@@ -43,10 +43,32 @@ The data have 7 columns with missing value, The column "ehail_fee" has all it's 
 
 # Peak Day Analysis
 
-![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/62be0ead-9c70-458e-98b6-27de1a097a91)
+![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/a914b97c-1eca-456b-a9f3-e492b7aea27e)
 
-![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/fedf36b5-bc71-4d98-9324-a35597fe3d61)
+![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/003b23d7-90be-4af7-ab58-860f3c5c047d)
+
 
 # Peak Hour Analysis
 
 ![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/bcdece7e-1e64-43ac-8d98-4eb65447a66b)
+
+# Trip Location Analysis
+
+![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/2e6bce74-b0f3-4d80-bb02-cdc344e5c435)
+
+# Trip Route Analysis
+
+![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/d0eec5fc-7c4f-488a-8c81-c731e8029ff2)
+
+# Trip Characteristic by Borough Analysis
+
+![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/33bf4dca-8896-4b87-936b-af2407bed395)
+
+![image](https://github.com/bintangrizqikhairullah/Green-Borough-Taxi-Trip-Analysis/assets/101108509/1108c3b0-f58b-4d8b-9ae0-60d4d1d02332)
+
+# Reccomendation and conclusion
+
+<ul>
+  <li>It's recomended to allocate taxi fleet in the weekdays especially on wednesday, Thursday and friday's rush hour because the taxi demand on the peroids are high and allocate less fleet on sunday to reduce operating cost</li>
+  <li>The popularity of green taxi on other borough besides manhattan is still low, especially in staten island and Bronx, the taxi also rarely used to travel between borough, this is because customer in these borough uses taxi for longer duration and farther distance than in manhattan, recalibartaion of taxi's fare rate to make it affordable in these borough or giving discount would increase the trip's number</li>
+</ul>
